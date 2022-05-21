@@ -88,6 +88,27 @@
     font-family: 'Noto Sans', sans-serif;
 }
 
+#services{
+    margin: 30px;
+    display: flex;
+}
+
+#services .box{
+    border: 5px solid yellow;
+    padding: 34px;
+    margin: 3px 6px;
+    border-radius: 29px;
+    background: rgb(10, 10, 6);   
+    
+}
+
+#services .box img{
+    height: 120px;
+    margin: auto;
+    display: block;
+}
+
+
 
 
 
